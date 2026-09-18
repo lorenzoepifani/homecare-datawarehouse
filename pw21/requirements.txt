@@ -1,4 +1,0 @@
-faker==40.38.0
-pandas
-plotly
-streamlit

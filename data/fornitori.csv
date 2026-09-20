@@ -1,0 +1,481 @@
+fornitore_id,nome,categoria_servizio,zona
+1,MuroNuovoGroup,Imbianchino,Napoli
+2,CaldaieCasaExpress,Caldaie,Bologna
+3,GreenServiceSolutions,Giardinaggio e Irrigazione,Milano
+4,IrrigaExpressService,Giardinaggio e Irrigazione,Milano
+5,TermoCaldaieExpress,Caldaie,Roma
+6,IdroCasaSolutions,Idraulica,Torino
+7,VerdeCasaSolutions,Giardinaggio e Irrigazione,Bologna
+8,TuboServiceTeam,Idraulica,Milano
+9,PitturaProService,Imbianchino,Roma
+10,VerdeCasaPro,Giardinaggio e Irrigazione,Torino
+11,LegnoServiceCasa,Falegnameria,Milano
+12,AcquaProTeam,Idraulica,Milano
+13,AmpereTeamSolutions,Elettricista,Napoli
+14,IrrigaExpressService,Giardinaggio e Irrigazione,Milano
+15,VerdeCasaExpress,Giardinaggio e Irrigazione,Milano
+16,CaldaieCasaPro,Caldaie,Torino
+17,LegnoServiceGroup,Falegnameria,Roma
+18,IdroSolutions,Idraulica,Bologna
+19,TintaServiceGroup,Imbianchino,Roma
+20,TermoCaldaieGroup,Caldaie,Milano
+21,TermoTeamService,Climatizzazione,Napoli
+22,GiardinoProTeam,Giardinaggio e Irrigazione,Bologna
+23,GiardinoProCasa,Giardinaggio e Irrigazione,Torino
+24,ArteLegnoExpress,Falegnameria,Torino
+25,IdroGroup,Idraulica,Milano
+26,AirExpressGroup,Climatizzazione,Roma
+27,PitturaProSolutions,Imbianchino,Bologna
+28,GreenServiceGroup,Giardinaggio e Irrigazione,Napoli
+29,TermoTeamCasa,Climatizzazione,Napoli
+30,ColorCasaExpress,Imbianchino,Bologna
+31,AmpereTeamPro,Elettricista,Napoli
+32,ElettroCasaGroup,Elettricista,Milano
+33,TermoCaldaieExpress,Caldaie,Roma
+34,AcquaProTeam,Idraulica,Napoli
+35,RubinettoExpressService,Idraulica,Bologna
+36,PitturaProTeam,Imbianchino,Napoli
+37,WoodCasaPoint,Falegnameria,Torino
+38,CaldaieCasaExpress,Caldaie,Milano
+39,RubinettoExpressService,Idraulica,Milano
+40,PitturaProService,Imbianchino,Milano
+41,CaldaieCasaPoint,Caldaie,Bologna
+42,PratoTeamExpress,Giardinaggio e Irrigazione,Roma
+43,TavolaExpressService,Falegnameria,Napoli
+44,TermoTeamSolutions,Climatizzazione,Bologna
+45,TuboServiceSolutions,Idraulica,Napoli
+46,VoltServicePro,Elettricista,Bologna
+47,ArteLegnoSolutions,Falegnameria,Bologna
+48,IrrigaExpressPro,Giardinaggio e Irrigazione,Torino
+49,AcquaProService,Idraulica,Roma
+50,IdroCasaPoint,Idraulica,Napoli
+51,TuboServiceCasa,Idraulica,Torino
+52,IdroGroup,Idraulica,Milano
+53,ElettroCasaGroup,Elettricista,Napoli
+54,ClimaCasaSolutions,Climatizzazione,Bologna
+55,LuceProCasa,Elettricista,Milano
+56,CaldaiaServiceTeam,Caldaie,Roma
+57,MuroNuovoSolutions,Imbianchino,Bologna
+58,PratoTeamCasa,Giardinaggio e Irrigazione,Milano
+59,TavolaExpressPoint,Falegnameria,Bologna
+60,IdroCasaExpress,Idraulica,Napoli
+61,LuceProSolutions,Elettricista,Bologna
+62,CaldaiaServicePro,Caldaie,Milano
+63,AmpereTeamService,Elettricista,Milano
+64,CaldaiaServiceGroup,Caldaie,Milano
+65,WoodCasaTeam,Falegnameria,Torino
+66,ElettroCasa,Elettricista,Torino
+67,PitturaProTeam,Imbianchino,Bologna
+68,ColorCasaPoint,Imbianchino,Bologna
+69,RubinettoExpressPro,Idraulica,Milano
+70,VoltServiceExpress,Elettricista,Napoli
+71,IdroCasaService,Idraulica,Roma
+72,CalorProExpress,Caldaie,Bologna
+73,ColorCasaPoint,Imbianchino,Roma
+74,TuboServiceGroup,Idraulica,Bologna
+75,ClimaCasaPro,Climatizzazione,Napoli
+76,ElettroCasaGroup,Elettricista,Napoli
+77,FalegnamProCasa,Falegnameria,Napoli
+78,TermoCaldaieGroup,Caldaie,Milano
+79,LegnoServiceGroup,Falegnameria,Napoli
+80,ColorCasaGroup,Imbianchino,Milano
+81,CaldaieCasaExpress,Caldaie,Bologna
+82,AcquaProPoint,Idraulica,Torino
+83,TavolaExpressService,Falegnameria,Torino
+84,VerdeCasaService,Giardinaggio e Irrigazione,Milano
+85,AmpereTeamPoint,Elettricista,Bologna
+86,LegnoServicePro,Falegnameria,Milano
+87,FreddoProCasa,Climatizzazione,Roma
+88,RubinettoExpressPoint,Idraulica,Milano
+89,FalegnamProSolutions,Falegnameria,Bologna
+90,TintaServiceExpress,Imbianchino,Roma
+91,VerdeCasaGroup,Giardinaggio e Irrigazione,Roma
+92,PitturaProService,Imbianchino,Torino
+93,AmpereTeamService,Elettricista,Torino
+94,AcquaProTeam,Idraulica,Roma
+95,ColorExpressService,Imbianchino,Napoli
+96,PitturaProTeam,Imbianchino,Bologna
+97,WoodCasaExpress,Falegnameria,Milano
+98,AcquaProExpress,Idraulica,Bologna
+99,HeatExpressService,Caldaie,Torino
+100,CalorProSolutions,Caldaie,Milano
+101,GiardinoProGroup,Giardinaggio e Irrigazione,Roma
+102,ClimaServiceCasa,Climatizzazione,Bologna
+103,PitturaProService,Imbianchino,Roma
+104,CaldaieCasaPoint,Caldaie,Napoli
+105,ElettroExpress,Elettricista,Milano
+106,TermoCaldaieSolutions,Caldaie,Milano
+107,AcquaProSolutions,Idraulica,Torino
+108,CaldaieCasaGroup,Caldaie,Milano
+109,TermoTeamGroup,Climatizzazione,Milano
+110,IdroTeam,Idraulica,Roma
+111,TermoCaldaieSolutions,Caldaie,Bologna
+112,IdroExpress,Idraulica,Milano
+113,AmpereTeamPoint,Elettricista,Roma
+114,LegnoServicePoint,Falegnameria,Roma
+115,LuceProSolutions,Elettricista,Torino
+116,TintaServicePoint,Imbianchino,Torino
+117,RubinettoExpressPoint,Idraulica,Napoli
+118,LuceProTeam,Elettricista,Roma
+119,AirExpressService,Climatizzazione,Milano
+120,ColorExpressSolutions,Imbianchino,Roma
+121,AmpereTeamSolutions,Elettricista,Napoli
+122,CaldaiaServicePoint,Caldaie,Bologna
+123,ArteLegnoExpress,Falegnameria,Bologna
+124,TermoTeamGroup,Climatizzazione,Roma
+125,PitturaProService,Imbianchino,Bologna
+126,FreddoProService,Climatizzazione,Bologna
+127,IdroCasaPoint,Idraulica,Bologna
+128,HeatExpressSolutions,Caldaie,Torino
+129,AcquaProCasa,Idraulica,Torino
+130,MuroNuovoService,Imbianchino,Torino
+131,AirExpressGroup,Climatizzazione,Torino
+132,VoltServicePro,Elettricista,Bologna
+133,CalorProPoint,Caldaie,Milano
+134,VerdeCasaPoint,Giardinaggio e Irrigazione,Napoli
+135,AmpereTeamSolutions,Elettricista,Roma
+136,ClimaCasaSolutions,Climatizzazione,Roma
+137,IdroService,Idraulica,Torino
+138,FreddoProService,Climatizzazione,Napoli
+139,LegnoServiceTeam,Falegnameria,Napoli
+140,VoltServiceTeam,Elettricista,Torino
+141,CalorProService,Caldaie,Milano
+142,AmpereTeamCasa,Elettricista,Torino
+143,CaldaiaServiceExpress,Caldaie,Napoli
+144,CalorProService,Caldaie,Bologna
+145,IrrigaExpressPoint,Giardinaggio e Irrigazione,Milano
+146,TintaServiceTeam,Imbianchino,Torino
+147,ElettroCasaExpress,Elettricista,Roma
+148,VerdeCasaSolutions,Giardinaggio e Irrigazione,Napoli
+149,PratoTeamExpress,Giardinaggio e Irrigazione,Bologna
+150,AmpereTeamExpress,Elettricista,Torino
+151,WoodCasaPro,Falegnameria,Bologna
+152,VoltServiceCasa,Elettricista,Milano
+153,PratoTeamPoint,Giardinaggio e Irrigazione,Napoli
+154,AcquaProPoint,Idraulica,Bologna
+155,HeatExpressSolutions,Caldaie,Napoli
+156,IdroCasaSolutions,Idraulica,Bologna
+157,GreenServiceGroup,Giardinaggio e Irrigazione,Bologna
+158,PitturaProCasa,Imbianchino,Milano
+159,CalorProTeam,Caldaie,Milano
+160,PitturaProSolutions,Imbianchino,Milano
+161,TintaServiceExpress,Imbianchino,Milano
+162,GreenServiceSolutions,Giardinaggio e Irrigazione,Roma
+163,TavolaExpressSolutions,Falegnameria,Roma
+164,TavolaExpressGroup,Falegnameria,Napoli
+165,LegnoServiceExpress,Falegnameria,Roma
+166,HeatExpressPro,Caldaie,Torino
+167,ElettroCasaService,Elettricista,Milano
+168,ColorCasaGroup,Imbianchino,Bologna
+169,IdroPro,Idraulica,Torino
+170,FalegnamProCasa,Falegnameria,Milano
+171,ClimaServiceTeam,Climatizzazione,Napoli
+172,AirExpressPro,Climatizzazione,Milano
+173,FalegnamProPoint,Falegnameria,Roma
+174,ElettroSolutions,Elettricista,Bologna
+175,VoltServicePoint,Elettricista,Napoli
+176,PratoTeamGroup,Giardinaggio e Irrigazione,Bologna
+177,PitturaProService,Imbianchino,Milano
+178,ArteLegnoExpress,Falegnameria,Torino
+179,TuboServiceSolutions,Idraulica,Roma
+180,TuboServiceExpress,Idraulica,Napoli
+181,FalegnamProService,Falegnameria,Milano
+182,VoltServiceCasa,Elettricista,Bologna
+183,IdroCasaExpress,Idraulica,Milano
+184,ColorExpressTeam,Imbianchino,Roma
+185,VerdeCasaService,Giardinaggio e Irrigazione,Napoli
+186,FalegnamProGroup,Falegnameria,Roma
+187,PitturaProTeam,Imbianchino,Milano
+188,ColorExpressTeam,Imbianchino,Bologna
+189,LuceProPoint,Elettricista,Milano
+190,ElettroSolutions,Elettricista,Bologna
+191,HeatExpressTeam,Caldaie,Napoli
+192,AmpereTeamService,Elettricista,Roma
+193,HeatExpressTeam,Caldaie,Napoli
+194,IrrigaExpressPoint,Giardinaggio e Irrigazione,Torino
+195,WoodCasaService,Falegnameria,Roma
+196,CaldaiaServicePro,Caldaie,Napoli
+197,TermoTeamCasa,Climatizzazione,Napoli
+198,ElettroExpress,Elettricista,Torino
+199,VoltServiceExpress,Elettricista,Torino
+200,ElettroCasa,Elettricista,Milano
+201,IrrigaExpressSolutions,Giardinaggio e Irrigazione,Torino
+202,HeatExpressGroup,Caldaie,Bologna
+203,GreenServiceSolutions,Giardinaggio e Irrigazione,Roma
+204,AirExpressPoint,Climatizzazione,Bologna
+205,CalorProPoint,Caldaie,Roma
+206,CaldaiaServiceExpress,Caldaie,Napoli
+207,TermoTeamExpress,Climatizzazione,Roma
+208,IdroCasaSolutions,Idraulica,Torino
+209,TermoTeamPro,Climatizzazione,Milano
+210,RubinettoExpressCasa,Idraulica,Milano
+211,CalorProExpress,Caldaie,Napoli
+212,ColorExpressGroup,Imbianchino,Roma
+213,IrrigaExpressPoint,Giardinaggio e Irrigazione,Napoli
+214,LegnoServiceGroup,Falegnameria,Bologna
+215,FalegnamProPoint,Falegnameria,Napoli
+216,IrrigaExpressService,Giardinaggio e Irrigazione,Roma
+217,PitturaProService,Imbianchino,Roma
+218,TintaServiceSolutions,Imbianchino,Bologna
+219,CalorProGroup,Caldaie,Bologna
+220,CaldaieCasaExpress,Caldaie,Milano
+221,TermoCaldaieGroup,Caldaie,Bologna
+222,IrrigaExpressCasa,Giardinaggio e Irrigazione,Bologna
+223,ColorExpressPoint,Imbianchino,Milano
+224,ElettroCasaSolutions,Elettricista,Roma
+225,IrrigaExpressCasa,Giardinaggio e Irrigazione,Napoli
+226,CalorProExpress,Caldaie,Milano
+227,FreddoProService,Climatizzazione,Bologna
+228,PratoTeamPoint,Giardinaggio e Irrigazione,Torino
+229,HeatExpressPoint,Caldaie,Milano
+230,VoltServiceExpress,Elettricista,Torino
+231,CaldaiaServiceGroup,Caldaie,Milano
+232,LegnoServiceTeam,Falegnameria,Torino
+233,TintaServiceExpress,Imbianchino,Roma
+234,AirExpressPro,Climatizzazione,Milano
+235,GreenServiceGroup,Giardinaggio e Irrigazione,Bologna
+236,ArteLegnoExpress,Falegnameria,Torino
+237,CaldaieCasaPoint,Caldaie,Napoli
+238,TintaServiceGroup,Imbianchino,Bologna
+239,GreenServiceTeam,Giardinaggio e Irrigazione,Milano
+240,LegnoServiceGroup,Falegnameria,Napoli
+241,TermoCaldaieTeam,Caldaie,Torino
+242,GiardinoProGroup,Giardinaggio e Irrigazione,Roma
+243,ClimaServiceExpress,Climatizzazione,Milano
+244,FalegnamProCasa,Falegnameria,Torino
+245,ClimaServiceGroup,Climatizzazione,Bologna
+246,ClimaCasaPro,Climatizzazione,Bologna
+247,TavolaExpressCasa,Falegnameria,Bologna
+248,WoodCasaSolutions,Falegnameria,Roma
+249,MuroNuovoCasa,Imbianchino,Napoli
+250,IdroPro,Idraulica,Napoli
+251,PratoTeamPro,Giardinaggio e Irrigazione,Bologna
+252,ColorCasaTeam,Imbianchino,Milano
+253,TintaServiceCasa,Imbianchino,Bologna
+254,CalorProGroup,Caldaie,Bologna
+255,VoltServicePro,Elettricista,Torino
+256,RubinettoExpressTeam,Idraulica,Bologna
+257,GiardinoProCasa,Giardinaggio e Irrigazione,Milano
+258,IrrigaExpressGroup,Giardinaggio e Irrigazione,Bologna
+259,TavolaExpressTeam,Falegnameria,Milano
+260,TermoTeamExpress,Climatizzazione,Torino
+261,PitturaProCasa,Imbianchino,Napoli
+262,IrrigaExpressPro,Giardinaggio e Irrigazione,Bologna
+263,ClimaCasaExpress,Climatizzazione,Torino
+264,HeatExpressSolutions,Caldaie,Bologna
+265,IdroCasaSolutions,Idraulica,Bologna
+266,PratoTeamExpress,Giardinaggio e Irrigazione,Torino
+267,VerdeCasaPro,Giardinaggio e Irrigazione,Milano
+268,LuceProSolutions,Elettricista,Bologna
+269,WoodCasaGroup,Falegnameria,Bologna
+270,ClimaCasaTeam,Climatizzazione,Milano
+271,LegnoServiceExpress,Falegnameria,Napoli
+272,TermoTeamService,Climatizzazione,Roma
+273,AmpereTeamService,Elettricista,Roma
+274,ClimaCasaTeam,Climatizzazione,Milano
+275,TermoCaldaieGroup,Caldaie,Torino
+276,ColorExpressPoint,Imbianchino,Roma
+277,LuceProExpress,Elettricista,Torino
+278,CaldaiaServicePoint,Caldaie,Bologna
+279,GiardinoProGroup,Giardinaggio e Irrigazione,Milano
+280,IdroCasaGroup,Idraulica,Torino
+281,TermoCaldaieGroup,Caldaie,Roma
+282,CaldaiaServiceGroup,Caldaie,Napoli
+283,TavolaExpressTeam,Falegnameria,Roma
+284,TavolaExpressService,Falegnameria,Milano
+285,FreddoProCasa,Climatizzazione,Bologna
+286,TuboServiceExpress,Idraulica,Napoli
+287,ElettroService,Elettricista,Torino
+288,LuceProGroup,Elettricista,Torino
+289,IdroCasaPoint,Idraulica,Napoli
+290,PitturaProService,Imbianchino,Milano
+291,TintaServicePoint,Imbianchino,Napoli
+292,TermoTeamGroup,Climatizzazione,Roma
+293,GiardinoProGroup,Giardinaggio e Irrigazione,Roma
+294,PitturaProSolutions,Imbianchino,Roma
+295,AcquaProSolutions,Idraulica,Torino
+296,ElettroGroup,Elettricista,Milano
+297,ColorCasaTeam,Imbianchino,Bologna
+298,HeatExpressPoint,Caldaie,Milano
+299,ClimaServiceCasa,Climatizzazione,Milano
+300,GreenServiceSolutions,Giardinaggio e Irrigazione,Milano
+301,TavolaExpressTeam,Falegnameria,Milano
+302,ClimaCasaTeam,Climatizzazione,Torino
+303,ElettroPoint,Elettricista,Roma
+304,GreenServiceCasa,Giardinaggio e Irrigazione,Napoli
+305,MuroNuovoGroup,Imbianchino,Roma
+306,CaldaiaServicePro,Caldaie,Napoli
+307,TuboServiceSolutions,Idraulica,Milano
+308,FalegnamProPoint,Falegnameria,Torino
+309,CalorProExpress,Caldaie,Napoli
+310,LuceProCasa,Elettricista,Roma
+311,PitturaProService,Imbianchino,Napoli
+312,FalegnamProCasa,Falegnameria,Roma
+313,PitturaProService,Imbianchino,Milano
+314,GreenServiceSolutions,Giardinaggio e Irrigazione,Napoli
+315,IrrigaExpressSolutions,Giardinaggio e Irrigazione,Milano
+316,HeatExpressService,Caldaie,Milano
+317,PitturaProTeam,Imbianchino,Bologna
+318,ColorExpressService,Imbianchino,Milano
+319,TermoCaldaieService,Caldaie,Bologna
+320,TintaServicePoint,Imbianchino,Milano
+321,IdroService,Idraulica,Torino
+322,GiardinoProGroup,Giardinaggio e Irrigazione,Bologna
+323,ArteLegnoPoint,Falegnameria,Milano
+324,TintaServiceGroup,Imbianchino,Milano
+325,TavolaExpressTeam,Falegnameria,Bologna
+326,CaldaieCasaPro,Caldaie,Roma
+327,CaldaieCasaPro,Caldaie,Torino
+328,AcquaProCasa,Idraulica,Milano
+329,TermoCaldaieSolutions,Caldaie,Roma
+330,AirExpressCasa,Climatizzazione,Napoli
+331,IrrigaExpressSolutions,Giardinaggio e Irrigazione,Napoli
+332,WoodCasaPoint,Falegnameria,Milano
+333,TermoCaldaieExpress,Caldaie,Roma
+334,IdroCasaTeam,Idraulica,Milano
+335,TuboServiceCasa,Idraulica,Bologna
+336,RubinettoExpressCasa,Idraulica,Napoli
+337,PratoTeamSolutions,Giardinaggio e Irrigazione,Bologna
+338,TermoTeamCasa,Climatizzazione,Napoli
+339,IdroCasaPro,Idraulica,Torino
+340,WoodCasaPro,Falegnameria,Roma
+341,AmpereTeamPro,Elettricista,Milano
+342,AcquaProPoint,Idraulica,Roma
+343,CaldaieCasaExpress,Caldaie,Torino
+344,IdroCasaGroup,Idraulica,Torino
+345,TintaServiceSolutions,Imbianchino,Napoli
+346,AmpereTeamCasa,Elettricista,Roma
+347,FalegnamProService,Falegnameria,Roma
+348,ArteLegnoExpress,Falegnameria,Milano
+349,CaldaieCasaTeam,Caldaie,Bologna
+350,IdroCasaPro,Idraulica,Milano
+351,IdroCasaTeam,Idraulica,Milano
+352,TermoTeamService,Climatizzazione,Milano
+353,HeatExpressPoint,Caldaie,Bologna
+354,TermoTeamSolutions,Climatizzazione,Roma
+355,TintaServiceExpress,Imbianchino,Milano
+356,TermoCaldaieExpress,Caldaie,Bologna
+357,TermoTeamPro,Climatizzazione,Roma
+358,VerdeCasaPro,Giardinaggio e Irrigazione,Roma
+359,IdroTeam,Idraulica,Milano
+360,TintaServiceExpress,Imbianchino,Bologna
+361,TermoTeamGroup,Climatizzazione,Milano
+362,AcquaProTeam,Idraulica,Torino
+363,CaldaieCasaService,Caldaie,Bologna
+364,FreddoProSolutions,Climatizzazione,Milano
+365,CaldaieCasaSolutions,Caldaie,Roma
+366,TermoCaldaiePro,Caldaie,Milano
+367,CaldaieCasaService,Caldaie,Napoli
+368,IdroCasaTeam,Idraulica,Napoli
+369,FreddoProTeam,Climatizzazione,Milano
+370,ClimaServicePro,Climatizzazione,Roma
+371,HeatExpressTeam,Caldaie,Napoli
+372,TermoCaldaieGroup,Caldaie,Torino
+373,IdroCasaPro,Idraulica,Napoli
+374,ClimaCasaPoint,Climatizzazione,Roma
+375,ArteLegnoTeam,Falegnameria,Bologna
+376,WoodCasaGroup,Falegnameria,Roma
+377,TermoCaldaieGroup,Caldaie,Roma
+378,TermoTeamGroup,Climatizzazione,Napoli
+379,CalorProCasa,Caldaie,Napoli
+380,GiardinoProSolutions,Giardinaggio e Irrigazione,Torino
+381,ClimaCasaPro,Climatizzazione,Bologna
+382,GiardinoProCasa,Giardinaggio e Irrigazione,Torino
+383,TermoTeamCasa,Climatizzazione,Bologna
+384,GreenServiceExpress,Giardinaggio e Irrigazione,Bologna
+385,AirExpressPoint,Climatizzazione,Napoli
+386,IrrigaExpressPro,Giardinaggio e Irrigazione,Napoli
+387,ColorExpressCasa,Imbianchino,Milano
+388,ClimaServiceSolutions,Climatizzazione,Roma
+389,ElettroService,Elettricista,Torino
+390,PitturaProGroup,Imbianchino,Bologna
+391,ElettroPoint,Elettricista,Torino
+392,HeatExpressService,Caldaie,Bologna
+393,CaldaieCasaService,Caldaie,Napoli
+394,HeatExpressCasa,Caldaie,Torino
+395,PratoTeamPoint,Giardinaggio e Irrigazione,Torino
+396,ClimaCasaPro,Climatizzazione,Milano
+397,TavolaExpressTeam,Falegnameria,Bologna
+398,ClimaServiceSolutions,Climatizzazione,Bologna
+399,AmpereTeamExpress,Elettricista,Roma
+400,TermoCaldaiePro,Caldaie,Napoli
+401,TermoTeamSolutions,Climatizzazione,Torino
+402,ColorExpressSolutions,Imbianchino,Milano
+403,VoltServiceCasa,Elettricista,Napoli
+404,IdroCasaService,Idraulica,Roma
+405,MuroNuovoPoint,Imbianchino,Torino
+406,AmpereTeamExpress,Elettricista,Bologna
+407,TuboServicePoint,Idraulica,Torino
+408,AcquaProGroup,Idraulica,Napoli
+409,RubinettoExpressCasa,Idraulica,Bologna
+410,ArteLegnoPro,Falegnameria,Milano
+411,CalorProPoint,Caldaie,Torino
+412,AmpereTeamService,Elettricista,Napoli
+413,ElettroCasaPoint,Elettricista,Napoli
+414,LegnoServiceTeam,Falegnameria,Torino
+415,LuceProGroup,Elettricista,Bologna
+416,PitturaProExpress,Imbianchino,Napoli
+417,AirExpressPoint,Climatizzazione,Milano
+418,TuboServicePoint,Idraulica,Torino
+419,PratoTeamPro,Giardinaggio e Irrigazione,Torino
+420,TuboServicePoint,Idraulica,Milano
+421,WoodCasaPoint,Falegnameria,Bologna
+422,RubinettoExpressCasa,Idraulica,Bologna
+423,TermoTeamPoint,Climatizzazione,Roma
+424,TuboServiceCasa,Idraulica,Torino
+425,MuroNuovoSolutions,Imbianchino,Milano
+426,AmpereTeamPro,Elettricista,Milano
+427,GreenServiceGroup,Giardinaggio e Irrigazione,Torino
+428,CaldaieCasaExpress,Caldaie,Milano
+429,AmpereTeamExpress,Elettricista,Roma
+430,GreenServiceCasa,Giardinaggio e Irrigazione,Torino
+431,IdroCasaPro,Idraulica,Bologna
+432,IdroSolutions,Idraulica,Milano
+433,LuceProPoint,Elettricista,Milano
+434,FreddoProGroup,Climatizzazione,Roma
+435,TavolaExpressPro,Falegnameria,Roma
+436,WoodCasaService,Falegnameria,Roma
+437,GreenServicePro,Giardinaggio e Irrigazione,Milano
+438,PratoTeamService,Giardinaggio e Irrigazione,Napoli
+439,IdroPro,Idraulica,Napoli
+440,TuboServiceExpress,Idraulica,Bologna
+441,ClimaServiceTeam,Climatizzazione,Roma
+442,TavolaExpressCasa,Falegnameria,Milano
+443,FalegnamProPoint,Falegnameria,Torino
+444,ElettroCasaExpress,Elettricista,Napoli
+445,PitturaProGroup,Imbianchino,Bologna
+446,RubinettoExpressCasa,Idraulica,Napoli
+447,ElettroService,Elettricista,Milano
+448,TermoTeamPoint,Climatizzazione,Napoli
+449,ClimaServiceTeam,Climatizzazione,Torino
+450,VerdeCasaSolutions,Giardinaggio e Irrigazione,Roma
+451,PratoTeamSolutions,Giardinaggio e Irrigazione,Torino
+452,VoltServicePro,Elettricista,Bologna
+453,ElettroGroup,Elettricista,Napoli
+454,CaldaiaServiceExpress,Caldaie,Napoli
+455,ArteLegnoSolutions,Falegnameria,Bologna
+456,GreenServiceTeam,Giardinaggio e Irrigazione,Milano
+457,AmpereTeamPoint,Elettricista,Bologna
+458,PitturaProCasa,Imbianchino,Torino
+459,TuboServicePro,Idraulica,Milano
+460,LuceProTeam,Elettricista,Roma
+461,MuroNuovoPoint,Imbianchino,Napoli
+462,AmpereTeamPro,Elettricista,Bologna
+463,CalorProTeam,Caldaie,Torino
+464,TuboServiceGroup,Idraulica,Torino
+465,IrrigaExpressGroup,Giardinaggio e Irrigazione,Bologna
+466,LuceProTeam,Elettricista,Roma
+467,WoodCasaExpress,Falegnameria,Bologna
+468,ArteLegnoSolutions,Falegnameria,Torino
+469,PratoTeamService,Giardinaggio e Irrigazione,Bologna
+470,TermoCaldaieTeam,Caldaie,Bologna
+471,GreenServiceCasa,Giardinaggio e Irrigazione,Milano
+472,RubinettoExpressPro,Idraulica,Milano
+473,HeatExpressPoint,Caldaie,Roma
+474,HeatExpressSolutions,Caldaie,Milano
+475,ClimaCasaPoint,Climatizzazione,Napoli
+476,FalegnamProGroup,Falegnameria,Roma
+477,AmpereTeamCasa,Elettricista,Bologna
+478,ElettroCasaPoint,Elettricista,Napoli
+479,IdroCasaGroup,Idraulica,Napoli
+480,AcquaProExpress,Idraulica,Napoli

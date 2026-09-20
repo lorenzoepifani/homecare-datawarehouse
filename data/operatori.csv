@@ -1,0 +1,521 @@
+operatore_id,nome,cognome,zona,tipo_attivita
+1,Gianpietro,Luna,Torino,Caldaie
+2,Gianluigi,Buonauro,Napoli,Elettricista
+3,Raffaellino,Caironi,Roma,Elettricista
+4,Maria,Callegari,Torino,Climatizzazione
+5,Renzo,Dellucci,Napoli,Giardinaggio e Irrigazione
+6,Griselda,Manolesso,Torino,Giardinaggio e Irrigazione
+7,Alphons,Beffa,Roma,Imbianchino
+8,Manuel,Bertolucci,Milano,Elettricista
+9,Lando,Offredi,Roma,Elettricista
+10,Nico,Ricciardi,Milano,Imbianchino
+11,Ennio,Gottardi,Bologna,Elettricista
+12,Virgilio,Polizzi,Milano,Giardinaggio e Irrigazione
+13,Annunziata,Errigo,Torino,Climatizzazione
+14,Fausto,Dulbecco,Bologna,Falegnameria
+15,Bernardo,Pasolini,Roma,Falegnameria
+16,Donatella,Giusti,Milano,Idraulica
+17,Stefano,Cociarelli,Bologna,Idraulica
+18,Gianni,Scalera,Napoli,Giardinaggio e Irrigazione
+19,Etta,Grossi,Bologna,Caldaie
+20,Romeo,Gualtieri,Bologna,Climatizzazione
+21,Gelsomina,Aloisio,Napoli,Climatizzazione
+22,Vittoria,Scarpetta,Torino,Falegnameria
+23,Zaira,Lupo,Roma,Imbianchino
+24,Giorgia,Vergerio,Napoli,Giardinaggio e Irrigazione
+25,Ermenegildo,Borgia,Milano,Climatizzazione
+26,Rembrandt,Musatti,Bologna,Falegnameria
+27,Bianca,Mannoia,Torino,Climatizzazione
+28,Eugenia,Rapisardi,Roma,Imbianchino
+29,Graziella,Greggio,Bologna,Falegnameria
+30,Rolando,Marangoni,Roma,Climatizzazione
+31,Gaetano,Pausini,Milano,Climatizzazione
+32,Serena,Soranzo,Torino,Falegnameria
+33,Coriolano,Ginesio,Torino,Elettricista
+34,Orazio,Oliboni,Milano,Climatizzazione
+35,Aria,Malaparte,Bologna,Elettricista
+36,Imelda,Malacarne,Torino,Elettricista
+37,Alessio,Petrassi,Torino,Imbianchino
+38,Guglielmo,Alfonsi,Napoli,Giardinaggio e Irrigazione
+39,Annunziata,Bembo,Milano,Giardinaggio e Irrigazione
+40,Clelia,Tamburi,Torino,Falegnameria
+41,Roberta,Luciani,Bologna,Giardinaggio e Irrigazione
+42,Maura,Giammusso,Milano,Falegnameria
+43,Clelia,Niggli,Roma,Falegnameria
+44,Giancarlo,Favata,Torino,Climatizzazione
+45,Donatella,Gregori,Torino,Giardinaggio e Irrigazione
+46,Giovanna,Ciani,Roma,Idraulica
+47,Eliana,Cagnin,Torino,Idraulica
+48,Eliana,Barracco,Torino,Climatizzazione
+49,Lodovico,Rossetti,Napoli,Elettricista
+50,Amico,Ossani,Torino,Giardinaggio e Irrigazione
+51,Lisa,Cheda,Napoli,Idraulica
+52,Carlo,Malacarne,Napoli,Elettricista
+53,Marcantonio,Prada,Milano,Elettricista
+54,Federico,Filzi,Bologna,Elettricista
+55,Donatello,Vattimo,Napoli,Falegnameria
+56,Teresa,Ostinelli,Napoli,Climatizzazione
+57,Virgilio,Tassoni,Milano,Giardinaggio e Irrigazione
+58,Guarino,Dallara,Bologna,Idraulica
+59,Girolamo,Sommaruga,Torino,Falegnameria
+60,Olga,Malacarne,Napoli,Falegnameria
+61,Ludovica,Morgagni,Roma,Elettricista
+62,Ninetta,Carosone,Torino,Caldaie
+63,Ruggero,Borromini,Roma,Climatizzazione
+64,Elmo,Gelli,Torino,Caldaie
+65,Sonia,Petrucelli,Napoli,Caldaie
+66,Rossana,Volterra,Torino,Climatizzazione
+67,Mirko,Bulzoni,Napoli,Imbianchino
+68,Monica,Peruzzi,Torino,Giardinaggio e Irrigazione
+69,Alberto,Iannucci,Bologna,Falegnameria
+70,Adelasia,Catalano,Napoli,Climatizzazione
+71,Rodolfo,Pacetti,Milano,Elettricista
+72,Giada,Iacobucci,Roma,Falegnameria
+73,Bettina,Parri,Torino,Idraulica
+74,Priscilla,Pagnotto,Milano,Elettricista
+75,Corrado,Giannotti,Napoli,Caldaie
+76,Sabatino,Asmundo,Napoli,Giardinaggio e Irrigazione
+77,Donatella,Zamorani,Roma,Caldaie
+78,Marcantonio,Gangemi,Torino,Climatizzazione
+79,Fabrizia,Bocca,Milano,Elettricista
+80,Erika,Scarlatti,Roma,Climatizzazione
+81,Imelda,Marangoni,Napoli,Idraulica
+82,Federica,Pizzetti,Napoli,Climatizzazione
+83,Daniele,Cilibrasi,Milano,Idraulica
+84,Antonino,Baresi,Roma,Giardinaggio e Irrigazione
+85,Leopoldo,Surian,Torino,Climatizzazione
+86,Daniele,Cagnotto,Napoli,Caldaie
+87,Gianpietro,Valmarana,Milano,Caldaie
+88,Durante,Pedroni,Roma,Climatizzazione
+89,Rodolfo,Pagliaro,Roma,Imbianchino
+90,Germana,Vecoli,Milano,Giardinaggio e Irrigazione
+91,Piero,Costalonga,Napoli,Falegnameria
+92,Valeria,Pozzecco,Torino,Caldaie
+93,Filippa,Calarco,Roma,Caldaie
+94,Roberta,Stein,Roma,Imbianchino
+95,Dina,Pizzamano,Napoli,Caldaie
+96,Hugo,Balla,Napoli,Idraulica
+97,Graziella,Paganini,Roma,Elettricista
+98,Gian,Ruffini,Bologna,Falegnameria
+99,Renzo,Gilardoni,Torino,Caldaie
+100,Silvia,Orlando,Milano,Imbianchino
+101,Cirillo,Pace,Napoli,Climatizzazione
+102,Alessia,Offredi,Roma,Imbianchino
+103,Augusto,Pezzali,Torino,Idraulica
+104,Guido,Faugno,Milano,Climatizzazione
+105,Dario,Santorio,Napoli,Idraulica
+106,Carlo,Franzese,Napoli,Idraulica
+107,Eva,Argentero,Roma,Giardinaggio e Irrigazione
+108,Armando,Montesano,Torino,Giardinaggio e Irrigazione
+109,Gioachino,Cavanna,Bologna,Falegnameria
+110,Michela,Zeffirelli,Bologna,Idraulica
+111,Geronimo,Bombieri,Torino,Falegnameria
+112,Renata,Vismara,Napoli,Imbianchino
+113,Giacinto,Gaggini,Bologna,Caldaie
+114,Paoletta,Giannone,Napoli,Falegnameria
+115,Marcello,Comisso,Napoli,Imbianchino
+116,Milena,Acerbi,Napoli,Imbianchino
+117,Guido,Collodi,Roma,Caldaie
+118,Domenico,Vecoli,Torino,Falegnameria
+119,Giorgio,Druso,Napoli,Caldaie
+120,Costantino,Asprucci,Napoli,Falegnameria
+121,Donatello,Anguillara,Torino,Imbianchino
+122,Micheletto,Giolitti,Napoli,Climatizzazione
+123,Bianca,Moccia,Roma,Imbianchino
+124,Alderano,Draghi,Bologna,Climatizzazione
+125,Giustino,Bernardi,Bologna,Caldaie
+126,Dino,Pulci,Roma,Giardinaggio e Irrigazione
+127,Vincentio,Carli,Torino,Caldaie
+128,Lucrezia,Boccaccio,Milano,Giardinaggio e Irrigazione
+129,Salvi,Sagredo,Torino,Falegnameria
+130,Melania,Orengo,Torino,Idraulica
+131,Ubaldo,Cantimori,Torino,Climatizzazione
+132,Rocco,Tencalla,Roma,Caldaie
+133,Gianfrancesco,Battaglia,Bologna,Caldaie
+134,Lilla,Tremonti,Napoli,Climatizzazione
+135,Leone,Satta,Milano,Elettricista
+136,Evangelista,Bajamonti,Roma,Giardinaggio e Irrigazione
+137,Augusto,Soderini,Milano,Caldaie
+138,Rossana,Pigafetta,Milano,Caldaie
+139,Pompeo,Cannizzaro,Torino,Falegnameria
+140,Silvestro,Ruffini,Napoli,Falegnameria
+141,Benito,Bottigliero,Milano,Idraulica
+142,Ludovico,Comolli,Bologna,Elettricista
+143,Baccio,Ceci,Bologna,Idraulica
+144,Guglielmo,Vespucci,Napoli,Idraulica
+145,Lara,Modiano,Roma,Falegnameria
+146,Orazio,Turchetta,Napoli,Giardinaggio e Irrigazione
+147,Lando,Sansoni,Napoli,Imbianchino
+148,Toni,Ricci,Napoli,Idraulica
+149,Cirillo,Carocci,Torino,Giardinaggio e Irrigazione
+150,Serena,Villadicani,Roma,Falegnameria
+151,Licia,Gabrieli,Milano,Elettricista
+152,Puccio,Salvini,Napoli,Imbianchino
+153,Vanessa,Geraci,Torino,Idraulica
+154,Piergiuseppe,Morlacchi,Napoli,Climatizzazione
+155,Ramona,Sanguineti,Napoli,Giardinaggio e Irrigazione
+156,Pasqual,Praga,Torino,Climatizzazione
+157,Lina,Cadorna,Torino,Giardinaggio e Irrigazione
+158,Luca,Renault,Milano,Imbianchino
+159,Luca,Gualtieri,Torino,Giardinaggio e Irrigazione
+160,Nico,Corradi,Milano,Elettricista
+161,Giuseppina,Sgarbi,Milano,Imbianchino
+162,Baldassare,Burcardo,Roma,Imbianchino
+163,Rita,Bresciani,Roma,Falegnameria
+164,Carmelo,Rienzo,Napoli,Elettricista
+165,Cipriano,Palmisano,Napoli,Idraulica
+166,Paola,Cesarotti,Milano,Idraulica
+167,Angelina,Bianchini,Napoli,Imbianchino
+168,Bianca,Zampa,Napoli,Climatizzazione
+169,Annamaria,Monicelli,Bologna,Imbianchino
+170,Germana,Castellitto,Bologna,Elettricista
+171,Piergiorgio,Nitto,Napoli,Elettricista
+172,Tatiana,Ramazzotti,Roma,Falegnameria
+173,Stella,Bergoglio,Napoli,Idraulica
+174,Ivo,Mazzanti,Bologna,Elettricista
+175,Mauro,Cammarata,Roma,Climatizzazione
+176,Aurora,Tomaselli,Milano,Climatizzazione
+177,Giacomo,Costalonga,Milano,Climatizzazione
+178,Flavia,Sonnino,Bologna,Imbianchino
+179,Gianfranco,Cannizzaro,Milano,Caldaie
+180,Maurizio,Viviani,Napoli,Imbianchino
+181,Nanni,Carosone,Napoli,Caldaie
+182,Mariana,Ligorio,Napoli,Imbianchino
+183,Antonina,Gemito,Roma,Falegnameria
+184,Ornella,Respighi,Napoli,Falegnameria
+185,Rosina,Zamengo,Torino,Caldaie
+186,Marisa,Volta,Bologna,Caldaie
+187,Alfredo,Interminei,Roma,Giardinaggio e Irrigazione
+188,Alphons,Esposito,Roma,Climatizzazione
+189,Guarino,Mascheroni,Milano,Falegnameria
+190,Martino,Nicolini,Milano,Imbianchino
+191,Adriano,Fabrizi,Milano,Falegnameria
+192,Susanna,Cociarelli,Torino,Giardinaggio e Irrigazione
+193,Annunziata,Piccio,Torino,Caldaie
+194,Bartolomeo,Civaschi,Bologna,Falegnameria
+195,Lucia,Baglioni,Bologna,Climatizzazione
+196,Carlo,Turchetta,Napoli,Idraulica
+197,Giampiero,Paoletti,Bologna,Elettricista
+198,Piero,Sansoni,Bologna,Idraulica
+199,Massimiliano,Cristoforetti,Roma,Giardinaggio e Irrigazione
+200,Napoleone,Mazzacurati,Bologna,Idraulica
+201,Licia,Mocenigo,Napoli,Elettricista
+202,Maura,Zoppetti,Roma,Imbianchino
+203,Cassandra,Brenna,Bologna,Elettricista
+204,Valentina,Bernardi,Napoli,Imbianchino
+205,Ermanno,Cristoforetti,Torino,Giardinaggio e Irrigazione
+206,Margherita,Benedetti,Torino,Falegnameria
+207,Gianna,Bragadin,Torino,Elettricista
+208,Guarino,Ruberto,Torino,Caldaie
+209,Fortunata,Rapisardi,Bologna,Elettricista
+210,Sebastiano,Roth,Torino,Elettricista
+211,Pierluigi,Leblanc,Torino,Caldaie
+212,Giampiero,Toscani,Napoli,Imbianchino
+213,Damiano,Murri,Torino,Caldaie
+214,Puccio,Capuana,Milano,Idraulica
+215,Ippazio,Spinelli,Milano,Giardinaggio e Irrigazione
+216,Vincentio,Mascagni,Roma,Climatizzazione
+217,Antonino,Galuppi,Milano,Caldaie
+218,Paolo,Bersani,Napoli,Idraulica
+219,Adriano,Fittipaldi,Roma,Imbianchino
+220,Leone,Franceschi,Napoli,Imbianchino
+221,Marisa,Cibin,Roma,Climatizzazione
+222,Marina,Guarana,Bologna,Falegnameria
+223,Jacopo,Mondadori,Torino,Caldaie
+224,Dante,Alfieri,Napoli,Imbianchino
+225,Stefano,Ricci,Roma,Elettricista
+226,Federico,Cerutti,Napoli,Elettricista
+227,Nino,Tutino,Milano,Climatizzazione
+228,Irma,Giammusso,Roma,Falegnameria
+229,Temistocle,Zaccardo,Napoli,Idraulica
+230,Roberta,Nolcini,Napoli,Imbianchino
+231,Benedetto,Petrucelli,Roma,Caldaie
+232,Sophia,Basso,Torino,Falegnameria
+233,Raffaello,Antonini,Milano,Giardinaggio e Irrigazione
+234,Romeo,Bosio,Napoli,Falegnameria
+235,Sophia,Mazzi,Bologna,Giardinaggio e Irrigazione
+236,Aria,Riccardi,Milano,Idraulica
+237,Antonina,Pirandello,Torino,Falegnameria
+238,Jolanda,Procacci,Napoli,Idraulica
+239,Jacopo,Carosone,Bologna,Imbianchino
+240,Pellegrino,Argan,Napoli,Caldaie
+241,Manuel,Donà,Bologna,Elettricista
+242,Nina,Sbarbaro,Napoli,Imbianchino
+243,Rita,Orengo,Torino,Imbianchino
+244,Camillo,Romagnoli,Roma,Climatizzazione
+245,Rosina,Camuccini,Bologna,Imbianchino
+246,Gioachino,Roccabonella,Torino,Falegnameria
+247,Bianca,Piccio,Roma,Elettricista
+248,Venancio,Bosurgi,Roma,Giardinaggio e Irrigazione
+249,Paolo,Mastroianni,Bologna,Imbianchino
+250,Lucrezia,Morosini,Roma,Imbianchino
+251,Gianfrancesco,Montecchi,Roma,Elettricista
+252,Melania,Dibiasi,Napoli,Elettricista
+253,Beppe,Tonisto,Napoli,Giardinaggio e Irrigazione
+254,Emma,Carnera,Torino,Caldaie
+255,Virgilio,Toninelli,Milano,Giardinaggio e Irrigazione
+256,Fulvio,Necci,Bologna,Caldaie
+257,Maurizio,Comisso,Torino,Climatizzazione
+258,Gianpietro,Camilleri,Roma,Caldaie
+259,Ennio,Guarato,Roma,Elettricista
+260,Gaetano,Dovara,Torino,Caldaie
+261,Chiara,Correr,Torino,Falegnameria
+262,Maria,Borromini,Milano,Elettricista
+263,Federigo,Tafuri,Roma,Falegnameria
+264,Ronaldo,Zarlino,Torino,Caldaie
+265,Maria,Salandra,Napoli,Climatizzazione
+266,Giulia,Zeffirelli,Bologna,Caldaie
+267,Evangelista,Miniati,Roma,Imbianchino
+268,Stefani,Mercadante,Bologna,Climatizzazione
+269,Enzo,Rosselli,Napoli,Idraulica
+270,Baldassare,Scotto,Roma,Idraulica
+271,Rembrandt,Marcacci,Torino,Idraulica
+272,Natalia,Leoncavallo,Torino,Caldaie
+273,Camilla,Bertoni,Bologna,Falegnameria
+274,Mauro,Tomaselli,Milano,Falegnameria
+275,Benito,Mastroianni,Bologna,Imbianchino
+276,Romolo,Salvo,Bologna,Imbianchino
+277,Angelo,Bettin,Napoli,Climatizzazione
+278,Nanni,Ludovisi,Bologna,Imbianchino
+279,Beppe,Bulzoni,Milano,Falegnameria
+280,Diana,Tolentino,Milano,Imbianchino
+281,Oreste,Scandone,Napoli,Elettricista
+282,Beatrice,Vismara,Napoli,Climatizzazione
+283,Morena,Basadonna,Napoli,Elettricista
+284,Roberto,Farinelli,Bologna,Imbianchino
+285,Ludovico,Silvestri,Bologna,Giardinaggio e Irrigazione
+286,Temistocle,Contrafatto,Napoli,Falegnameria
+287,Augusto,Salieri,Roma,Idraulica
+288,Claudio,Munari,Roma,Climatizzazione
+289,Laura,Branciforte,Bologna,Falegnameria
+290,Toni,Dossetti,Torino,Caldaie
+291,Annibale,Granatelli,Torino,Giardinaggio e Irrigazione
+292,Isabella,Romiti,Bologna,Falegnameria
+293,Raimondo,Trevisani,Napoli,Climatizzazione
+294,Valerio,Cundari,Roma,Caldaie
+295,Mirco,Palmisano,Milano,Idraulica
+296,Ignazio,Pedersoli,Torino,Imbianchino
+297,Pierangelo,Moretti,Torino,Imbianchino
+298,Giovanna,Bernardi,Bologna,Giardinaggio e Irrigazione
+299,Monica,Monteverdi,Bologna,Giardinaggio e Irrigazione
+300,Baccio,Monicelli,Bologna,Climatizzazione
+301,Cesare,Zabarella,Roma,Imbianchino
+302,Giovanna,Peano,Roma,Caldaie
+303,Ippazio,Grifeo,Bologna,Giardinaggio e Irrigazione
+304,Lidia,Conti,Napoli,Climatizzazione
+305,Mariano,Bova,Roma,Falegnameria
+306,Berenice,Cipolla,Torino,Elettricista
+307,Maurizio,Mastroianni,Milano,Elettricista
+308,Filippa,Pergolesi,Torino,Giardinaggio e Irrigazione
+309,Domenico,Brenna,Bologna,Giardinaggio e Irrigazione
+310,Lodovico,Zaccardo,Milano,Elettricista
+311,Nicola,Mondaini,Torino,Falegnameria
+312,Paoletta,Ceravolo,Milano,Idraulica
+313,Germana,Troisi,Milano,Falegnameria
+314,Carmelo,Randazzo,Napoli,Idraulica
+315,Torquato,Orengo,Milano,Caldaie
+316,Aldo,Orlando,Roma,Climatizzazione
+317,Lodovico,Esposito,Milano,Idraulica
+318,Giampaolo,Mortati,Bologna,Climatizzazione
+319,Marisa,Speri,Torino,Idraulica
+320,Fredo,Gemito,Roma,Imbianchino
+321,Edoardo,Costanzi,Torino,Elettricista
+322,Beppe,Malaparte,Bologna,Falegnameria
+323,Rosina,Calvo,Torino,Elettricista
+324,Tonino,Vecellio,Napoli,Caldaie
+325,Romana,Troisi,Torino,Idraulica
+326,Angelo,Morandini,Milano,Giardinaggio e Irrigazione
+327,Teresa,Chechi,Bologna,Caldaie
+328,Cassandra,Paolini,Bologna,Caldaie
+329,Eraldo,Cutuli,Roma,Falegnameria
+330,Filippo,Delle,Napoli,Imbianchino
+331,Licia,Romiti,Napoli,Falegnameria
+332,Antonello,Polani,Torino,Giardinaggio e Irrigazione
+333,Mirco,Gioberti,Napoli,Elettricista
+334,Renzo,Lucarelli,Napoli,Climatizzazione
+335,Marcella,Salandra,Roma,Giardinaggio e Irrigazione
+336,Gianpaolo,Udinese,Napoli,Falegnameria
+337,Gino,Maspero,Napoli,Giardinaggio e Irrigazione
+338,Paloma,Scotto,Napoli,Imbianchino
+339,Romana,Ferrara,Bologna,Falegnameria
+340,Nanni,Rossetti,Napoli,Elettricista
+341,Romolo,Lombardo,Milano,Falegnameria
+342,Melania,Pascarella,Bologna,Imbianchino
+343,Tiziano,Tron,Roma,Imbianchino
+344,Piero,Cutrufo,Torino,Imbianchino
+345,Paulina,Filippelli,Milano,Idraulica
+346,Nina,Cicilia,Napoli,Caldaie
+347,Sylvia,Greggio,Torino,Imbianchino
+348,Arnaldo,Solimena,Bologna,Falegnameria
+349,Tatiana,Pagnotto,Napoli,Idraulica
+350,Angelica,Camilleri,Roma,Caldaie
+351,Lara,Tozzi,Roma,Imbianchino
+352,Serafina,Cattaneo,Milano,Caldaie
+353,Ippazio,Brancaccio,Roma,Caldaie
+354,Mariana,Curci,Bologna,Climatizzazione
+355,Guarino,Salata,Torino,Caldaie
+356,Ubaldo,Comeriato,Milano,Climatizzazione
+357,Rita,Romano,Bologna,Elettricista
+358,Carlo,Gargallo,Roma,Climatizzazione
+359,Paulina,Salvemini,Roma,Falegnameria
+360,Valentina,Necci,Torino,Elettricista
+361,Alfredo,Pozzecco,Roma,Caldaie
+362,Arnulfo,Petrocelli,Roma,Elettricista
+363,Tiziano,Paltrinieri,Bologna,Idraulica
+364,Gianpietro,Pavone,Roma,Giardinaggio e Irrigazione
+365,Biagio,Panatta,Torino,Climatizzazione
+366,Gianfranco,Babbo,Napoli,Caldaie
+367,Lucio,Calarco,Bologna,Imbianchino
+368,Rosa,Monti,Napoli,Caldaie
+369,Morena,Comboni,Bologna,Falegnameria
+370,Edoardo,Baroffio,Torino,Caldaie
+371,Ivan,Sermonti,Milano,Elettricista
+372,Ida,Cignaroli,Torino,Imbianchino
+373,Maria,Scotto,Milano,Giardinaggio e Irrigazione
+374,Ricciotti,Agostini,Roma,Climatizzazione
+375,Bernardo,Antonini,Roma,Imbianchino
+376,Girolamo,Gadda,Napoli,Falegnameria
+377,Romana,Conte,Torino,Imbianchino
+378,Allegra,Tron,Milano,Elettricista
+379,Piersanti,Capuana,Milano,Climatizzazione
+380,Maura,Luria,Milano,Elettricista
+381,Gilberto,Manunta,Milano,Imbianchino
+382,Dario,Bellocchio,Bologna,Elettricista
+383,Gino,Puccini,Roma,Giardinaggio e Irrigazione
+384,Eugenia,Saragat,Milano,Elettricista
+385,Azeglio,Capuana,Milano,Elettricista
+386,Romina,Tartaglia,Milano,Falegnameria
+387,Cassandra,Valentino,Torino,Imbianchino
+388,Alderano,Totino,Roma,Imbianchino
+389,Aria,Goldstein,Roma,Imbianchino
+390,Letizia,Colletti,Roma,Giardinaggio e Irrigazione
+391,Lamberto,Riccardi,Milano,Imbianchino
+392,Achille,Niscoromni,Milano,Caldaie
+393,Gioacchino,Prati,Torino,Idraulica
+394,Flavio,Briccialdi,Bologna,Caldaie
+395,Venancio,Onio,Roma,Idraulica
+396,Baldassare,Trobbiani,Napoli,Falegnameria
+397,Alessia,Tomaselli,Torino,Elettricista
+398,Michela,Tomaselli,Bologna,Caldaie
+399,Angelica,Aporti,Roma,Caldaie
+400,Ottavio,Segni,Milano,Idraulica
+401,Antonello,Pederiva,Torino,Falegnameria
+402,Nico,Gritti,Roma,Elettricista
+403,Ludovica,Antelami,Milano,Elettricista
+404,Michele,Boito,Roma,Giardinaggio e Irrigazione
+405,Matteo,Giusti,Milano,Climatizzazione
+406,Livia,Cammarata,Torino,Falegnameria
+407,Martina,Montanelli,Roma,Giardinaggio e Irrigazione
+408,Donato,Battisti,Bologna,Imbianchino
+409,Mauro,Vergassola,Torino,Giardinaggio e Irrigazione
+410,Martino,Dulbecco,Milano,Giardinaggio e Irrigazione
+411,Rita,Scarpa,Napoli,Climatizzazione
+412,Ida,Soderini,Milano,Imbianchino
+413,Elvira,Fagiani,Roma,Giardinaggio e Irrigazione
+414,Paola,Chinnici,Bologna,Elettricista
+415,Azeglio,Satriani,Bologna,Idraulica
+416,Amleto,Magnani,Torino,Idraulica
+417,Gaspare,Battelli,Torino,Giardinaggio e Irrigazione
+418,Morena,Filippelli,Roma,Imbianchino
+419,Valeria,Bassi,Milano,Elettricista
+420,Luchino,Mastroianni,Bologna,Climatizzazione
+421,Uberto,Pezzali,Milano,Falegnameria
+422,Patrizia,Vento,Torino,Idraulica
+423,Salvatore,Grisoni,Milano,Climatizzazione
+424,Amleto,Federico,Roma,Giardinaggio e Irrigazione
+425,Ivan,Novaro,Napoli,Elettricista
+426,Sophia,Bellocchio,Bologna,Caldaie
+427,Stefania,Montanariello,Milano,Elettricista
+428,Guarino,Catenazzi,Torino,Falegnameria
+429,Nicoletta,Pacelli,Milano,Giardinaggio e Irrigazione
+430,Raffaello,Piccinni,Napoli,Imbianchino
+431,Luciana,Rosselli,Milano,Idraulica
+432,Virginia,Peano,Bologna,Giardinaggio e Irrigazione
+433,Martino,Fanucci,Torino,Giardinaggio e Irrigazione
+434,Stefano,Tamburini,Napoli,Caldaie
+435,Nanni,Traversa,Milano,Elettricista
+436,Goffredo,Bramante,Roma,Elettricista
+437,Lilla,Rastelli,Bologna,Climatizzazione
+438,Bernardo,Ricci,Bologna,Caldaie
+439,Chiara,Esposito,Roma,Giardinaggio e Irrigazione
+440,Alina,Magrassi,Torino,Idraulica
+441,Ludovico,Camilleri,Roma,Imbianchino
+442,Bernardo,Mondadori,Torino,Imbianchino
+443,Fortunata,Malaparte,Milano,Falegnameria
+444,Liberto,Sabatini,Roma,Climatizzazione
+445,Chiara,Redi,Bologna,Climatizzazione
+446,Fabio,Ruggeri,Roma,Elettricista
+447,Maurizio,Saffi,Napoli,Elettricista
+448,Ansaldo,Niscoromni,Napoli,Imbianchino
+449,Diana,Rizzoli,Bologna,Giardinaggio e Irrigazione
+450,Guglielmo,Bettoni,Roma,Imbianchino
+451,Benvenuto,Pisani,Napoli,Caldaie
+452,Mirco,Toscanini,Napoli,Elettricista
+453,Nina,Curatoli,Milano,Climatizzazione
+454,Amadeo,Cocci,Torino,Falegnameria
+455,Sandra,Roncalli,Bologna,Caldaie
+456,Amico,Ceci,Bologna,Climatizzazione
+457,Baldassare,Gilardoni,Bologna,Falegnameria
+458,Melania,Ottino,Milano,Caldaie
+459,Milo,Pasqua,Napoli,Falegnameria
+460,Antonella,Balbo,Torino,Idraulica
+461,Claudia,Cortese,Napoli,Caldaie
+462,Giovanna,Salgari,Bologna,Caldaie
+463,Napoleone,Palazzo,Napoli,Elettricista
+464,Renzo,Borsiere,Bologna,Giardinaggio e Irrigazione
+465,Antonina,Cibin,Milano,Giardinaggio e Irrigazione
+466,Virgilio,Ovadia,Napoli,Caldaie
+467,Paride,Mazzocchi,Roma,Elettricista
+468,Federica,Ligorio,Napoli,Giardinaggio e Irrigazione
+469,Gionata,Carli,Roma,Caldaie
+470,Alfredo,Fantozzi,Napoli,Elettricista
+471,Telemaco,Trapani,Napoli,Imbianchino
+472,Osvaldo,Zampa,Bologna,Falegnameria
+473,Danilo,Iacobucci,Bologna,Idraulica
+474,Matilda,Gullotta,Milano,Climatizzazione
+475,Irma,Sabatini,Milano,Idraulica
+476,Giampaolo,Lucchesi,Torino,Elettricista
+477,Griselda,Stradivari,Milano,Elettricista
+478,Galasso,Castiglione,Milano,Falegnameria
+479,Durante,Borgia,Torino,Idraulica
+480,Rocco,Dossetti,Milano,Climatizzazione
+481,Vittoria,Russo,Roma,Giardinaggio e Irrigazione
+482,Calogero,Mezzetta,Roma,Climatizzazione
+483,Gelsomina,Napolitano,Napoli,Giardinaggio e Irrigazione
+484,Jolanda,Boccioni,Napoli,Imbianchino
+485,Amalia,Veneziano,Milano,Imbianchino
+486,Jacopo,Mantegazza,Torino,Climatizzazione
+487,Serafina,Cristoforetti,Milano,Idraulica
+488,Lara,Draghi,Torino,Giardinaggio e Irrigazione
+489,Nadia,Opizzi,Roma,Caldaie
+490,Torquato,Garzoni,Milano,Falegnameria
+491,Dario,Filzi,Milano,Imbianchino
+492,Morena,Cignaroli,Napoli,Giardinaggio e Irrigazione
+493,Gilberto,Tafuri,Roma,Caldaie
+494,Alfredo,Onisto,Bologna,Caldaie
+495,Angelica,Pacillo,Milano,Caldaie
+496,Ruggero,Villadicani,Napoli,Imbianchino
+497,Domenico,Brichese,Napoli,Idraulica
+498,Baccio,Maspero,Milano,Caldaie
+499,Paride,Soderini,Bologna,Idraulica
+500,Vincentio,Polani,Torino,Climatizzazione
+501,Marissa,Pizzo,Milano,Idraulica
+502,Priscilla,Borgia,Torino,Climatizzazione
+503,Dino,Mercantini,Roma,Elettricista
+504,Eva,Borgia,Torino,Climatizzazione
+505,Roberto,Schiaparelli,Torino,Climatizzazione
+506,Giulia,Trapanese,Torino,Climatizzazione
+507,Matteo,Ceri,Napoli,Falegnameria
+508,Tina,Villadicani,Milano,Caldaie
+509,Eugenia,Faggiani,Napoli,Imbianchino
+510,Marissa,Cerutti,Roma,Giardinaggio e Irrigazione
+511,Raffaele,Tedesco,Roma,Idraulica
+512,Stella,Bertoli,Torino,Caldaie
+513,Rita,Catenazzi,Torino,Climatizzazione
+514,Ugolino,Correr,Roma,Climatizzazione
+515,Leopoldo,Dandolo,Bologna,Giardinaggio e Irrigazione
+516,Ernesto,Mimun,Torino,Climatizzazione
+517,Jolanda,Gatto,Napoli,Falegnameria
+518,Mattia,Travaglio,Bologna,Imbianchino
+519,Virginia,Loredan,Napoli,Imbianchino
+520,Rossana,Bosurgi,Bologna,Falegnameria
